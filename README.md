@@ -5,8 +5,17 @@ by Casper Solheim Bojer & Jens Peder Meldgaard in 2020, I surveyed the top solut
 competition.
 
 
-<!-- START doctoc -->
-<!-- END doctoc -->
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
+
+- [List of competitions](#list-of-competitions)
+- [Characteristic of each competition](#characteristic-of-each-competition)
+- [Top 10 solutions](#top-10-solutions)
+  - [1. Walmart Recruiting - Store Sales Forecasting](#1-walmart-recruiting---store-sales-forecasting)
+- [Analysis](#analysis)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## List of competitions
 
