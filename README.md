@@ -50,8 +50,6 @@ competitions since 2014 to 2022.
   - [17. Optiver Realized Volatility Prediction](#17-optiver-realized-volatility-prediction-1)
   - [18. G-Research Crypto Forecasting](#18-g-research-crypto-forecasting-1)
   - [19. Ubiquant Market Prediction](#19-ubiquant-market-prediction-1)
-- [Analysis](#analysis)
-  - [Popularity trend of methods used by top 3 rankers](#popularity-trend-of-methods-used-by-top-3-rankers)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
