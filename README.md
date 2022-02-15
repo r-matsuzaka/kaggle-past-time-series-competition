@@ -221,7 +221,7 @@ NA
 
 <style scoped>
 table {
-  font-size: 13px;
+  font-size: 8px;
 }
 </style>
 
