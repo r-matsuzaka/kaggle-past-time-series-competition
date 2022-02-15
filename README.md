@@ -92,91 +92,127 @@ So top 3 most voted EDAs are listed.
 3. []()
 
 ### 2. [Walmart Recruiting II: Sales in Stormy Weather](https://www.kaggle.com/c/walmart-recruiting-sales-in-stormy-weather)
+[> Go to top](#Review-of-kaggle-time-series-competition)
+
 1. []()
 2. []()
 3. []()
 
 ### 3. [Rossmann Store Sales](https://www.kaggle.com/c/rossmann-store-sales)
+[> Go to top](#Review-of-kaggle-time-series-competition)
+
 1. []()
 2. []()
 3. []()
 
 ### 4. [Web Traffic Time Series Forecasting](https://www.kaggle.com/c/web-traffic-time-series-forecasting/overview)
+[> Go to top](#Review-of-kaggle-time-series-competition)
+
 1. []()
 2. []()
 3. []()
 
 ### 5. [TalkingData AdTracking Fraud Detection Challenge](https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection/data)
+[> Go to top](#Review-of-kaggle-time-series-competition)
+
 1. []()
 2. []()
 3. []()
 
 ### 6. [Corporación Favorita Grocery Sales Forecasting](https://www.kaggle.com/c/favorita-grocery-sales-forecasting/overview)
+[> Go to top](#Review-of-kaggle-time-series-competition)
+
 1. []()
 2. []()
 3. []()
 
 ### 7. [Recruit Restaurant Visitor Forecasting](https://www.kaggle.com/c/recruit-restaurant-visitor-forecasting/overview)
+[> Go to top](#Review-of-kaggle-time-series-competition)
+
 1. []()
 2. []()
 3. []()
 
 ### 8. [Google Analytics Customer Revenue Prediction](https://www.kaggle.com/c/ga-customer-revenue-prediction/overview)
+[> Go to top](#Review-of-kaggle-time-series-competition)
+
 1. [Ventilator Pressure Prediction: EDA, FE and models](https://www.kaggle.com/artgor/ventilator-pressure-prediction-eda-fe-and-models)
 2. [🔥EDA +FE+TabNet 🧠🧠[Weights and Biases]](https://www.kaggle.com/usharengaraju/eda-fe-tabnet-weights-and-biases)
 3. [Ventilator Pressure: EDA and simple submission](https://www.kaggle.com/carlmcbrideellis/ventilator-pressure-eda-and-simple-submission)
 
 ### 9. [LANL Earthquake Prediction](https://www.kaggle.com/c/LANL-Earthquake-Prediction/overview)
+[> Go to top](#Review-of-kaggle-time-series-competition)
+
 1. []()
 2. []()
 3. []()
 
 ### 10. [Two Sigma: Using News to Predict Stock Movements](https://www.kaggle.com/c/two-sigma-financial-news/overview)
+[> Go to top](#Review-of-kaggle-time-series-competition)
+
 1. []()
 2. []()
 3. []()
 
 ### 11. [ASHRAE - Great Energy Predictor III](https://www.kaggle.com/c/ashrae-energy-prediction/overview)
+[> Go to top](#Review-of-kaggle-time-series-competition)
+
 1. []()
 2. []()
 3. []()
 
 ### 12. [University of Liverpool - Ion Switching](https://www.kaggle.com/c/liverpool-ion-switching/overview)
+[> Go to top](#Review-of-kaggle-time-series-competition)
+
 1. []()
 2. []()
 3. []()
 
 ### 13. [M5 Forecasting - Accuracy](https://www.kaggle.com/c/m5-forecasting-accuracy/overview)
+[> Go to top](#Review-of-kaggle-time-series-competition)
+
 1. []()
 2. []()
 3. []()
 
 ### 14. [Jane Street Market Prediction](https://www.kaggle.com/c/jane-street-market-prediction/overview)
+[> Go to top](#Review-of-kaggle-time-series-competition)
+
 1. []()
 2. []()
 3. []()
 
 ### 15. [Acea Smart Water Analytics](https://www.kaggle.com/c/acea-water-prediction/overview)
+[> Go to top](#Review-of-kaggle-time-series-competition)
+
 1. []()
 2. []()
 3. []()
 
 ### 16. [Google Brain - Ventilator Pressure Prediction](https://www.kaggle.com/c/ventilator-pressure-prediction/overview)
+[> Go to top](#Review-of-kaggle-time-series-competition)
+
 1. []()
 2. []()
 3. []()
 
 ### 17. [Optiver Realized Volatility Prediction](https://www.kaggle.com/c/optiver-realized-volatility-prediction/overview)
+[> Go to top](#Review-of-kaggle-time-series-competition)
+
 1. [https://www.kaggle.com/chumajin/optiver-realized-eda-for-starter-english-version](https://www.kaggle.com/chumajin/optiver-realized-eda-for-starter-english-version)
 2. [Optiver Realized Volatility Prediction - EDA](https://www.kaggle.com/gunesevitan/optiver-realized-volatility-prediction-eda)
 3. [Optiver; EDA XGBoost starter(日本語,Japanese)](https://www.kaggle.com/matsuosan/optiver-eda-xgboost-starter-japanese)
 
 ### 18. [G-Research Crypto Forecasting](https://www.kaggle.com/c/g-research-crypto-forecasting)
+[> Go to top](#Review-of-kaggle-time-series-competition)
+
 1. [📊 G-Research Plots + EDA 📊](https://www.kaggle.com/odins0n/g-research-plots-eda)
 2. [To The Moon 🚀 [G-Research Crypto Forecasting EDA]](https://www.kaggle.com/iamleonie/to-the-moon-g-research-crypto-forecasting-eda)
 3. [📈📊[G-crypto] Interactive Dashboard + Indicators](https://www.kaggle.com/toomuchsauce/g-crypto-interactive-dashboard-indicators)
 
 ### 19. [Ubiquant Market Prediction](https://www.kaggle.com/c/ubiquant-market-prediction)
+[> Go to top](#Review-of-kaggle-time-series-competition)
+
 1. [EDA- target analysis](https://www.kaggle.com/lucamassaron/eda-target-analysis)
 2. [Ubiquant EDA and Baseline](https://www.kaggle.com/ilialar/ubiquant-eda-and-baseline)
 3. [🔥The most advanced analytics🔥](https://www.kaggle.com/kartushovdanil/the-most-advanced-analytics)
@@ -185,6 +221,7 @@ So top 3 most voted EDAs are listed.
 ## Top 3 solutions
 
 ### 1. [Walmart Recruiting - Store Sales Forecasting](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting)
+[> Go to top](#Review-of-kaggle-time-series-competition)
 
 | Pos | methods | Ensemble method        | data split method | pre-process | feature engineering | dimensionality reduction | speed up | libraries and tools | Code        | Discussion |
 |-----|---------|------------------------|-------------------|-------------|------------------|---------------------|----------|---------------------|-----------------------|--------------------|
@@ -193,6 +230,7 @@ So top 3 most voted EDAs are listed.
 | 3   |         |                        |                   |             |                  |                     |          |                     | https://ideone.com/pUw773 | https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting/discussion/8023#43821   |
 
 ### 2. [Walmart Recruiting II: Sales in Stormy Weather](https://www.kaggle.com/c/walmart-recruiting-sales-in-stormy-weather)
+[> Go to top](#Review-of-kaggle-time-series-competition)
 
 | Pos | methods | Ensemble method        | data split method | pre-process | feature engineering | dimensionality reduction | speed up | libraries and tools | Code                   | Discussion                    |
 |-----|---------|------------------------|-------------------|-------------|---------------------|--------------------------|----------|---------------------|------------------------|-------------------------------|
@@ -202,6 +240,8 @@ So top 3 most voted EDAs are listed.
 
 
 ### 3. [Rossmann Store Sales](https://www.kaggle.com/c/rossmann-store-sales)
+[> Go to top](#Review-of-kaggle-time-series-competition)
+
 | Pos | methods | Ensemble method        | data split method | pre-process | feature engineering | dimensionality reduction | speed up | libraries and tools | Code                   | Discussion                    |
 |-----|---------|------------------------|-------------------|-------------|---------------------|--------------------------|----------|---------------------|------------------------|-------------------------------|
 | 1   |         |                        |                   |             |                     |                          |          |                     |                        |                               |
@@ -210,6 +250,8 @@ So top 3 most voted EDAs are listed.
 
 
 ### 4. [Web Traffic Time Series Forecasting](https://www.kaggle.com/c/web-traffic-time-series-forecasting/overview)
+[> Go to top](#Review-of-kaggle-time-series-competition)
+
 | Pos | methods | Ensemble method        | data split method | pre-process | feature engineering | dimensionality reduction | speed up | libraries and tools | Code                   | Discussion                    |
 |-----|---------|------------------------|-------------------|-------------|---------------------|--------------------------|----------|---------------------|------------------------|-------------------------------|
 | 1   |         |                        |                   |             |                     |                          |          |                     |                        |                               |
@@ -218,6 +260,8 @@ So top 3 most voted EDAs are listed.
 
 
 ### 5. [TalkingData AdTracking Fraud Detection Challenge](https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection/data)
+[> Go to top](#Review-of-kaggle-time-series-competition)
+
 | Pos | methods | Ensemble method        | data split method | pre-process | feature engineering | dimensionality reduction | speed up | libraries and tools | Code                   | Discussion                    |
 |-----|---------|------------------------|-------------------|-------------|---------------------|--------------------------|----------|---------------------|------------------------|-------------------------------|
 | 1   |         |                        |                   |             |                     |                          |          |                     |                        |                               |
@@ -225,6 +269,8 @@ So top 3 most voted EDAs are listed.
 | 3   |         |                        |                   |             |                     |                          |          |                     |                        |                               |
 
 ### 6. [Corporación Favorita Grocery Sales Forecasting](https://www.kaggle.com/c/favorita-grocery-sales-forecasting/overview)
+[> Go to top](#Review-of-kaggle-time-series-competition)
+
 | Pos | methods | Ensemble method        | data split method | pre-process | feature engineering | dimensionality reduction | speed up | libraries and tools | Code                   | Discussion                    |
 |-----|---------|------------------------|-------------------|-------------|---------------------|--------------------------|----------|---------------------|------------------------|-------------------------------|
 | 1   |         |                        |                   |             |                     |                          |          |                     |                        |                               |
@@ -233,6 +279,8 @@ So top 3 most voted EDAs are listed.
 
 
 ### 7. [Recruit Restaurant Visitor Forecasting](https://www.kaggle.com/c/recruit-restaurant-visitor-forecasting/overview)
+[> Go to top](#Review-of-kaggle-time-series-competition)
+
 | Pos | methods | Ensemble method        | data split method | pre-process | feature engineering | dimensionality reduction | speed up | libraries and tools | Code                   | Discussion                    |
 |-----|---------|------------------------|-------------------|-------------|---------------------|--------------------------|----------|---------------------|------------------------|-------------------------------|
 | 1   |         |                        |                   |             |                     |                          |          |                     |                        |                               |
@@ -241,6 +289,8 @@ So top 3 most voted EDAs are listed.
 
 
 ### 8. [Google Analytics Customer Revenue Prediction](https://www.kaggle.com/c/ga-customer-revenue-prediction/overview)
+[> Go to top](#Review-of-kaggle-time-series-competition)
+
 | Pos | methods | Ensemble method        | data split method | pre-process | feature engineering | dimensionality reduction | speed up | libraries and tools | Code                                                                                                | Discussion                                                                                                                  |
 |-----|---------|------------------------|-------------------|-------------|---------------------|--------------------------|----------|---------------------|-----------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
 | 1   |         |                        |                   |             |                     |                          |          |                     | [Winning_solution](https://www.kaggle.com/kostoglot/winning-solution?scriptVersionId=10911396#L144) | [Winning solution (link to kernel inside)](https://www.kaggle.com/c/ga-customer-revenue-prediction/discussion/82614#482360) |
@@ -249,6 +299,8 @@ So top 3 most voted EDAs are listed.
 
 
 ### 9. [LANL Earthquake Prediction](https://www.kaggle.com/c/LANL-Earthquake-Prediction/overview)
+[> Go to top](#Review-of-kaggle-time-series-competition)
+
 | Pos | methods | Ensemble method        | data split method | pre-process | feature engineering | dimensionality reduction | speed up | libraries and tools | Code                                                                                                                                                                                                                                              | Discussion                                                                                        |
 |-----|---------|------------------------|-------------------|-------------|---------------------|--------------------------|----------|---------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
 | 1   |         |                        |                   |             |                     |                          |          |                     | [#1 private LB kernel LANL lgbm](https://www.kaggle.com/ilu000/1-private-lb-kernel-lanl-lgbm) <br/> <br/> [#1-Geomean NN and 6FeatLGBM [2.259 Private LB]](https://www.kaggle.com/dkaraflos/1-geomean-nn-and-6featlgbm-2-259-private-lb/notebook) | [1st place solution](https://www.kaggle.com/c/LANL-Earthquake-Prediction/discussion/94390#542982) |
@@ -257,9 +309,13 @@ So top 3 most voted EDAs are listed.
 
 
 ### 10. [Two Sigma: Using News to Predict Stock Movements](https://www.kaggle.com/c/two-sigma-financial-news/overview)
+[> Go to top](#Review-of-kaggle-time-series-competition)
+
 NA
 
 ### 11. [ASHRAE - Great Energy Predictor III](https://www.kaggle.com/c/ashrae-energy-prediction/overview)
+[> Go to top](#Review-of-kaggle-time-series-competition)
+
 | Pos | methods | Ensemble method        | data split method | pre-process | feature engineering | dimensionality reduction | speed up | libraries and tools | Code | Discussion                                                                                                       |
 |-----|---------|------------------------|-------------------|-------------|---------------------|--------------------------|----------|---------------------|------|------------------------------------------------------------------------------------------------------------------|
 | 1   |         |                        |                   |             |                     |                          |          |                     | NA   | [1st Place Solution Team Isamu & Matt](https://www.kaggle.com/c/ashrae-energy-prediction/discussion/124709#711401) |
@@ -268,6 +324,8 @@ NA
 
 
 ### 12. [University of Liverpool - Ion Switching](https://www.kaggle.com/c/liverpool-ion-switching/overview)
+[> Go to top](#Review-of-kaggle-time-series-competition)
+
 | Pos | methods | Ensemble method        | data split method | pre-process | feature engineering | dimensionality reduction | speed up | libraries and tools | Code                                                                                                                | Discussion                                                                                                                                                                                                                              |
 |-----|---------|------------------------|-------------------|-------------|---------------------|--------------------------|----------|---------------------|---------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1   |         |                        |                   |             |                     |                          |          |                     | NA                                                                                                                  | [1st (or 16th) place short write up](https://www.kaggle.com/c/liverpool-ion-switching/discussion/153940#862403)                                                                                                                         |
@@ -276,6 +334,8 @@ NA
 
 
 ### 13. [M5 Forecasting - Accuracy](https://www.kaggle.com/c/m5-forecasting-accuracy/overview)
+[> Go to top](#Review-of-kaggle-time-series-competition)
+
 | Pos | methods | Ensemble method        | data split method | pre-process | feature engineering | dimensionality reduction      | speed up   | libraries and tools    | Code | Discussion                                                                                               |
 |-----|---------|------------------------|-------------------|-------------|--------------------|-------------------------------|------------|------------------------|------|----------------------------------------------------------------------------------------------------------|
 | 1   |         |                        |                   |             |                    |                               |            |                        | NA   | [1st place solution](https://www.kaggle.com/c/m5-forecasting-accuracy/discussion/163684#913208)          |
@@ -283,6 +343,8 @@ NA
 | 3   |         |                        |                   |             |                    |                               |            |                        | NA   | [3rd place solution - NN approach](https://www.kaggle.com/c/m5-forecasting-accuracy/discussion/164374#916793) |
 
 ### 14. [Jane Street Market Prediction](https://www.kaggle.com/c/jane-street-market-prediction/overview)
+[> Go to top](#Review-of-kaggle-time-series-competition)
+
 | Pos | methods | Ensemble method        | data split method | pre-process | feature engineering | dimensionality reduction | speed up | libraries and tools | Code                                                                                                                      | Discussion                                                |
 |-----|---------|------------------------|-------------------|-------------|---------------------|--------------------------|----------|---------------------|---------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------|
 | 1   |         |                        |                   |             |                     |                          |          |                     | [Jane Street 1st on LeaderBoard Notebook](https://www.kaggle.com/vikazrajpurohit/jane-street-1st-on-leaderboard-notebook) | NA                                                        |
@@ -290,9 +352,13 @@ NA
 NA for Pos #2
 
 ### 15. [Acea Smart Water Analytics](https://www.kaggle.com/c/acea-water-prediction/overview)
+[> Go to top](#Review-of-kaggle-time-series-competition)
+
 NA
 
 ### 16. [Google Brain - Ventilator Pressure Prediction](https://www.kaggle.com/c/ventilator-pressure-prediction/overview)
+[> Go to top](#Review-of-kaggle-time-series-competition)
+
 | Pos | methods | Ensemble method        | data split method | pre-process | feature engineering | dimensionality reduction | speed up | libraries and tools | Code                                                                                                                   | Discussion |
 |-----|---------|------------------------|-------------------|-------------|---------------------|--------------------------|----------|---------------------|------------------------------------------------------------------------------------------------------------------------|-----|
 | 1   |         |                        |                   |             |                     |                          |          |                     | [[#1 Solution] LSTM CNN transformer (1 fold)](https://www.kaggle.com/shujun717/1-solution-lstm-cnn-transformer-1-fold) | [Winner's Writeup!](https://www.kaggle.com/c/ventilator-pressure-prediction/discussion/285256#1570087)|
@@ -301,6 +367,8 @@ NA
 
 
 ### 17. [Optiver Realized Volatility Prediction](https://www.kaggle.com/c/optiver-realized-volatility-prediction/overview)
+[> Go to top](#Review-of-kaggle-time-series-competition)
+
 | Pos | methods             | Ensemble method        | data split method | pre-process | feature engineering | dimensionality reduction | speed up | libraries and tools | Code                                                                                 | Discussion                                                                                                      |
 |-----|------------------------------|------------------------|-------------------|-------------|------------------|---------------------|----------|---------------------|--------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|
 | 1   | LightGBM<br/>MLP<br/>CNN     | equally weighd average | GroupKFold        |minmax_scale | Nearest-Neighbor | t-SNE               | joblib   |                     | [1st place (public 2nd place) solution](https://www.kaggle.com/nyanpn/1st-place-public-2nd-place-solution) | [1st Place Solution - Nearest Neighbors](https://www.kaggle.com/c/optiver-realized-volatility-prediction/discussion/274970#1526710)|
@@ -309,9 +377,13 @@ NA
 NA for Pos #2
 
 ### 18. [G-Research Crypto Forecasting](https://www.kaggle.com/c/g-research-crypto-forecasting)
+[> Go to top](#Review-of-kaggle-time-series-competition)
+
 Ongoing
 
 ### 19. [Ubiquant Market Prediction](https://www.kaggle.com/c/ubiquant-market-prediction)
+[> Go to top](#Review-of-kaggle-time-series-competition)
+
 Ongoing
 
 ## Analysis
