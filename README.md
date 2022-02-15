@@ -219,12 +219,6 @@ NA
 
 ## Top 3 solutions
 
-<style>
-table, th, td {
-    font-size: 50%;
-}
-</style>
-
 ### 1. [Walmart Recruiting - Store Sales Forecasting](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting)
 [> Go to top](#Review-of-kaggle-time-series-competition)
 
