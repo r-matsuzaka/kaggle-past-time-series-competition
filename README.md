@@ -83,6 +83,8 @@ So top 3 most voted EDAs are listed.
 
 
 ### 1. [Walmart Recruiting - Store Sales Forecasting](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting)
+[> Go to top](#Review-of-kaggle-time-series-competition)
+
 1. []()
 2. []()
 3. []()
