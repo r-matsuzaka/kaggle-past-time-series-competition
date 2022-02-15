@@ -219,6 +219,12 @@ NA
 
 ## Top 3 solutions
 
+<style scoped>
+table {
+  font-size: 13px;
+}
+</style>
+
 ### 1. [Walmart Recruiting - Store Sales Forecasting](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting)
 [> Go to top](#Review-of-kaggle-time-series-competition)
 
@@ -372,6 +378,7 @@ NA
 |-----|-----------------------------------------|-----------------------------------------------|-------------------------------------------|------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|
 | 1   | LightGBM<br/> <br/>MLP<br/> <br/>CNN    | equally weighd average                        | GroupKFold                                | [1st place (public 2nd place) solution](https://www.kaggle.com/nyanpn/1st-place-public-2nd-place-solution) | [1st Place Solution - Nearest Neighbors](https://www.kaggle.com/c/optiver-realized-volatility-prediction/discussion/274970#1526710) |
 | 3   | LightGBM<br/> <br/>MLP<br/> <br/>TabNet | equally weighd average                        | KFold                                     | [Third Place Solution](https://www.kaggle.com/eduardopeynetti/third-place-solution)                        | [3rd Place Solution](https://www.kaggle.com/c/optiver-realized-volatility-prediction/discussion/278588#1545008)                     |
+
 
 NA for Pos #2
 
