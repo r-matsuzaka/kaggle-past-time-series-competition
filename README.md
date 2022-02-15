@@ -386,23 +386,6 @@ Ongoing
 
 Ongoing
 
-## Analysis
-
-
-### Popularity trend of methods used by top 3 rankers
-
-- Table
-
-| Method   | 2014 | 2015 | 2016 | 2017 | 2018 | 2019 | 2020 | 2021 | 2022 |
-|----------|------|------|------|------|------|------|------|------|------|
-| NN       | TD   |      |      |      |      |      |      |      |      |
-| LightGBM | TD   |      |      |      |      |      |      |      |      |
-|          |      |      |      |      |      |      |      |      |      |
-
-
-- Chart
-
-
 
 
 
