@@ -219,9 +219,9 @@ NA
 
 ## Top 3 solutions
 
-<style scoped>
-table {
-  font-size: 8px;
+<style>
+table, th, td {
+    font-size: 50%;
 }
 </style>
 
