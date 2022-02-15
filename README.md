@@ -87,114 +87,113 @@ So top 3 most voted EDAs are listed.
 ### 1. [Walmart Recruiting - Store Sales Forecasting](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting)
 [> Go to top](#Review-of-kaggle-time-series-competition)
 
-1. []()
-2. []()
-3. []()
+1. [EDA and Store Sales Predictions using XGB](https://www.kaggle.com/yasirhussain1987/eda-and-store-sales-predictions-using-xgb)
+2. [Walmart prediction - (1) EDA with time and space](https://www.kaggle.com/yepp2411/walmart-prediction-1-eda-with-time-and-space)
+3. [Wallmart Sales - EDA - feat eng [Future Update]](https://www.kaggle.com/maxdiazbattan/wallmart-sales-eda-feat-eng-future-update)
 
 ### 2. [Walmart Recruiting II: Sales in Stormy Weather](https://www.kaggle.com/c/walmart-recruiting-sales-in-stormy-weather)
 [> Go to top](#Review-of-kaggle-time-series-competition)
 
-1. []()
-2. []()
-3. []()
+NA
 
 ### 3. [Rossmann Store Sales](https://www.kaggle.com/c/rossmann-store-sales)
 [> Go to top](#Review-of-kaggle-time-series-competition)
 
-1. []()
-2. []()
-3. []()
+1. [Time Series Analysis and Forecasts with Prophet](https://www.kaggle.com/elenapetrova/time-series-analysis-and-forecasts-with-prophet)
+2. [EDA and forecasting with RFRegressor_FINAL_UPDATED](https://www.kaggle.com/stefanozakher94/eda-and-forecasting-with-rfregressor-final-updated)
+3. [How Does New Competition Affect Sales?](https://www.kaggle.com/ggep22/how-does-new-competition-affect-sales)
 
 ### 4. [Web Traffic Time Series Forecasting](https://www.kaggle.com/c/web-traffic-time-series-forecasting/overview)
 [> Go to top](#Review-of-kaggle-time-series-competition)
 
-1. []()
-2. []()
-3. []()
+1. [Wiki Traffic Forecast Exploration - WTF EDA](https://www.kaggle.com/headsortails/wiki-traffic-forecast-exploration-wtf-eda)
+2. [Web Traffic Time Series Forecasting (EDA)](https://www.kaggle.com/bodamanojkumar/web-traffic-time-series-forecasting-eda)
+3. [Wikipedia Web traffic EDA](https://www.kaggle.com/mtao94/wikipedia-web-traffic-eda)
 
 ### 5. [TalkingData AdTracking Fraud Detection Challenge](https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection/data)
 [> Go to top](#Review-of-kaggle-time-series-competition)
 
-1. []()
-2. []()
-3. []()
+1. [TalkingData EDA plus time patterns](https://www.kaggle.com/yuliagm/talkingdata-eda-plus-time-patterns)
+2. [TalkingData EDA and Class Imbalance](https://www.kaggle.com/kailex/talkingdata-eda-and-class-imbalance)
+3. [TalkingData: EDA to Model Evaluation | LB: 0.9683](https://www.kaggle.com/pranav84/talkingdata-eda-to-model-evaluation-lb-0-9683)
 
 ### 6. [Corporación Favorita Grocery Sales Forecasting](https://www.kaggle.com/c/favorita-grocery-sales-forecasting/overview)
 [> Go to top](#Review-of-kaggle-time-series-competition)
 
-1. []()
-2. []()
-3. []()
+1. [Shopping for Insights - Favorita EDA](https://www.kaggle.com/headsortails/shopping-for-insights-favorita-eda)
+2. [Memory optimization and EDA on entire dataset](https://www.kaggle.com/jagangupta/memory-optimization-and-eda-on-entire-dataset)
+3. [Grocery EDA Dirty XGBoost, Arima,ETS,Prophet](https://www.kaggle.com/ambarish/grocery-eda-dirty-xgboost-arima-ets-prophet)
 
 ### 7. [Recruit Restaurant Visitor Forecasting](https://www.kaggle.com/c/recruit-restaurant-visitor-forecasting/overview)
 [> Go to top](#Review-of-kaggle-time-series-competition)
 
-1. []()
-2. []()
-3. []()
+1. [Be my guest - Recruit Restaurant EDA](https://www.kaggle.com/headsortails/be-my-guest-recruit-restaurant-eda)
+2. [Exhaustive Weather EDA/File Overview](https://www.kaggle.com/huntermcgushion/exhaustive-weather-eda-file-overview)
+3. [Recruit Restaurant EDA](https://www.kaggle.com/fabiendaniel/recruit-restaurant-eda)
 
 ### 8. [Google Analytics Customer Revenue Prediction](https://www.kaggle.com/c/ga-customer-revenue-prediction/overview)
+[> Go to top](#Review-of-kaggle-time-series-competition)
+
+1. [R EDA for GStore + GLM + KERAS + XGB](https://www.kaggle.com/kailex/r-eda-for-gstore-glm-keras-xgb)
+2. [Google Analytics EDA + LightGBM + Screenshots](https://www.kaggle.com/erikbruin/google-analytics-eda-lightgbm-screenshots)
+3. [A Very Extensive GStore Exploratory Analysis](https://www.kaggle.com/captcalculator/a-very-extensive-gstore-exploratory-analysis)
+
+
+### 9. [LANL Earthquake Prediction](https://www.kaggle.com/c/LANL-Earthquake-Prediction/overview)
+[> Go to top](#Review-of-kaggle-time-series-competition)
+
+1. [Earthquakes FE. More features and samples](https://www.kaggle.com/artgor/earthquakes-fe-more-features-and-samples)
+2. [LANL Earthquake EDA and Prediction](https://www.kaggle.com/gpreda/lanl-earthquake-eda-and-prediction)
+3. [Masters Final Project: EDA](https://www.kaggle.com/vettejeep/masters-final-project-eda)
+
+### 10. [Two Sigma: Using News to Predict Stock Movements](https://www.kaggle.com/c/two-sigma-financial-news/overview)
+[> Go to top](#Review-of-kaggle-time-series-competition)
+
+1. [EDA, feature engineering and everything](https://www.kaggle.com/artgor/eda-feature-engineering-and-everything)
+2. [👨‍🔬 Bird Eye 👀 view of Two Sigma + NN Approach](https://www.kaggle.com/ashishpatel26/bird-eye-view-of-two-sigma-nn-approach)
+3. [Simple EDA - Two Sigma](https://www.kaggle.com/pestipeti/simple-eda-two-sigma)
+
+### 11. [ASHRAE - Great Energy Predictor III](https://www.kaggle.com/c/ashrae-energy-prediction/overview)
+[> Go to top](#Review-of-kaggle-time-series-competition)
+
+1. [🔌⚡ASHRAE -Start Here: A GENTLE Introduction](https://www.kaggle.com/caesarlupum/ashrae-start-here-a-gentle-introduction)
+2. [EDA for ASHRAE](https://www.kaggle.com/nroman/eda-for-ashrae)
+3. [A deep dive EDA into ALL variables](https://www.kaggle.com/jaseziv83/a-deep-dive-eda-into-all-variables)
+
+### 12. [University of Liverpool - Ion Switching](https://www.kaggle.com/c/liverpool-ion-switching/overview)
+[> Go to top](#Review-of-kaggle-time-series-competition)
+
+1. [Ion Switching Competition : Signal EDA 🧪](https://www.kaggle.com/tarunpaparaju/ion-switching-competition-signal-eda)
+2. [EDA - Ion Switching](https://www.kaggle.com/pestipeti/eda-ion-switching)
+3. [Simple EDA-Model](https://www.kaggle.com/siavrez/simple-eda-model)
+
+### 13. [M5 Forecasting - Accuracy](https://www.kaggle.com/c/m5-forecasting-accuracy/overview)
+[> Go to top](#Review-of-kaggle-time-series-competition)
+
+1. [Back to (predict) the future - Interactive M5 EDA](https://www.kaggle.com/headsortails/back-to-predict-the-future-interactive-m5-eda)
+2. [M5 Competition : EDA + Models 📈](https://www.kaggle.com/tarunpaparaju/m5-competition-eda-models)
+3. [Time Series Forecasting-EDA, FE & Modelling📈](https://www.kaggle.com/anshuls235/time-series-forecasting-eda-fe-modelling)
+
+### 14. [Jane Street Market Prediction](https://www.kaggle.com/c/jane-street-market-prediction/overview)
+[> Go to top](#Review-of-kaggle-time-series-competition)
+
+1. [Jane Street: EDA of day 0 and feature importance](https://www.kaggle.com/carlmcbrideellis/jane-street-eda-of-day-0-and-feature-importance)
+2. [Jane_street_Extensive_EDA & PCA starter 📊⚡](https://www.kaggle.com/muhammadmelsherbini/jane-street-extensive-eda-pca-starter)
+3. [EDA / A Quant's Prespective](https://www.kaggle.com/hamzashabbirbhatti/eda-a-quant-s-prespective)
+
+### 15. [Acea Smart Water Analytics](https://www.kaggle.com/c/acea-water-prediction/overview)
+[> Go to top](#Review-of-kaggle-time-series-competition)
+
+1. [Acea Smart Water: Full EDA & Prediction](https://www.kaggle.com/maksymshkliarevskyi/acea-smart-water-full-eda-prediction)
+2. [EDA: Quenching the Thirst for Insights](https://www.kaggle.com/iamleonie/eda-quenching-the-thirst-for-insights)
+3. [Quick EDA | Reporting & Data Understanding](https://www.kaggle.com/ekrembayar/quick-eda-reporting-data-understanding)
+
+### 16. [Google Brain - Ventilator Pressure Prediction](https://www.kaggle.com/c/ventilator-pressure-prediction/overview)
 [> Go to top](#Review-of-kaggle-time-series-competition)
 
 1. [Ventilator Pressure Prediction: EDA, FE and models](https://www.kaggle.com/artgor/ventilator-pressure-prediction-eda-fe-and-models)
 2. [🔥EDA +FE+TabNet 🧠🧠[Weights and Biases]](https://www.kaggle.com/usharengaraju/eda-fe-tabnet-weights-and-biases)
 3. [Ventilator Pressure: EDA and simple submission](https://www.kaggle.com/carlmcbrideellis/ventilator-pressure-eda-and-simple-submission)
-
-### 9. [LANL Earthquake Prediction](https://www.kaggle.com/c/LANL-Earthquake-Prediction/overview)
-[> Go to top](#Review-of-kaggle-time-series-competition)
-
-1. []()
-2. []()
-3. []()
-
-### 10. [Two Sigma: Using News to Predict Stock Movements](https://www.kaggle.com/c/two-sigma-financial-news/overview)
-[> Go to top](#Review-of-kaggle-time-series-competition)
-
-1. []()
-2. []()
-3. []()
-
-### 11. [ASHRAE - Great Energy Predictor III](https://www.kaggle.com/c/ashrae-energy-prediction/overview)
-[> Go to top](#Review-of-kaggle-time-series-competition)
-
-1. []()
-2. []()
-3. []()
-
-### 12. [University of Liverpool - Ion Switching](https://www.kaggle.com/c/liverpool-ion-switching/overview)
-[> Go to top](#Review-of-kaggle-time-series-competition)
-
-1. []()
-2. []()
-3. []()
-
-### 13. [M5 Forecasting - Accuracy](https://www.kaggle.com/c/m5-forecasting-accuracy/overview)
-[> Go to top](#Review-of-kaggle-time-series-competition)
-
-1. []()
-2. []()
-3. []()
-
-### 14. [Jane Street Market Prediction](https://www.kaggle.com/c/jane-street-market-prediction/overview)
-[> Go to top](#Review-of-kaggle-time-series-competition)
-
-1. []()
-2. []()
-3. []()
-
-### 15. [Acea Smart Water Analytics](https://www.kaggle.com/c/acea-water-prediction/overview)
-[> Go to top](#Review-of-kaggle-time-series-competition)
-
-1. []()
-2. []()
-3. []()
-
-### 16. [Google Brain - Ventilator Pressure Prediction](https://www.kaggle.com/c/ventilator-pressure-prediction/overview)
-[> Go to top](#Review-of-kaggle-time-series-competition)
-
-1. []()
-2. []()
-3. []()
 
 ### 17. [Optiver Realized Volatility Prediction](https://www.kaggle.com/c/optiver-realized-volatility-prediction/overview)
 [> Go to top](#Review-of-kaggle-time-series-competition)
@@ -223,69 +222,69 @@ So top 3 most voted EDAs are listed.
 ### 1. [Walmart Recruiting - Store Sales Forecasting](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting)
 [> Go to top](#Review-of-kaggle-time-series-competition)
 
-| Pos | methods | Ensemble method        | data split method | pre-process | feature engineering | dimensionality reduction | speed up | libraries and tools | Code        | Discussion |
-|-----|---------|------------------------|-------------------|-------------|------------------|---------------------|----------|---------------------|-----------------------|--------------------|
-| 1   |         |                        |                   |             |                  |                     |          |                     |  https://github.com/davidthaler/Walmart_competition_code | https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting/discussion/8125#44434   |
-| 2   |         |                        |                   |             |                  |                     |          |                     |                       | https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting/discussion/8023#43811   |
-| 3   |         |                        |                   |             |                  |                     |          |                     | https://ideone.com/pUw773 | https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting/discussion/8023#43821   |
+| Pos | methods | Ensemble method        | data split method | pre-process | feature engineering | dimensionality reduction | speed up | libraries and tools | Code                                                                                        | Discussion                                                                                                                         |
+|-----|---------|------------------------|-------------------|-------------|------------------|---------------------|----------|---------------------|---------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|
+| 1   |         |                        |                   |             |                  |                     |          |                     | [Kaggle-Walmart Sales Forecasting](https://github.com/davidthaler/Walmart_competition_code) | [First Place Entry](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting/discussion/8125#)                          |
+| 2   |         |                        |                   |             |                  |                     |          |                     | NA                                                                                          | [Thank You and #2 rank model](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting/discussion/8023#43811)           |
+| 3   |         |                        |                   |             |                  |                     |          |                     | [Kaggle Walmart recruiting competition](https://ideone.com/pUw773)                          | [I used an almost brain dead technique:](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting/discussion/8023#43821) |
 
 ### 2. [Walmart Recruiting II: Sales in Stormy Weather](https://www.kaggle.com/c/walmart-recruiting-sales-in-stormy-weather)
 [> Go to top](#Review-of-kaggle-time-series-competition)
 
-| Pos | methods | Ensemble method        | data split method | pre-process | feature engineering | dimensionality reduction | speed up | libraries and tools | Code                   | Discussion                    |
-|-----|---------|------------------------|-------------------|-------------|---------------------|--------------------------|----------|---------------------|------------------------|-------------------------------|
-| 1   |         |                        |                   |             |                     |                          |          |                     |                        |                               |
-| 2   |         |                        |                   |             |                     |                          |          |                     |                        |                               |
-| 3   |         |                        |                   |             |                     |                          |          |                     |                        |                               |
+| Pos | methods | Ensemble method        | data split method | pre-process | feature engineering | dimensionality reduction | speed up | libraries and tools | Code                                                                                                                                  | Discussion                                                                                                      |
+|-----|---------|------------------------|-------------------|-------------|---------------------|--------------------------|----------|---------------------|---------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|
+| 1   |         |                        |                   |             |                     |                          |          |                     | [kaggle-walmart-recruiting-sales-in-stormy-weather](https://github.com/threecourse/kaggle-walmart-recruiting-sales-in-stormy-weather) | [First Place Entry](https://www.kaggle.com/c/walmart-recruiting-sales-in-stormy-weather/discussion/14452#80451) |
+| 2   |         |                        |                   |             |                     |                          |          |                     | NA                                                                                                                                    | NA                                                                                                              |
+| 3   |         |                        |                   |             |                     |                          |          |                     | NA                                                                                                                                    | NA                                                                                                              |
 
 
 ### 3. [Rossmann Store Sales](https://www.kaggle.com/c/rossmann-store-sales)
 [> Go to top](#Review-of-kaggle-time-series-competition)
 
-| Pos | methods | Ensemble method        | data split method | pre-process | feature engineering | dimensionality reduction | speed up | libraries and tools | Code                   | Discussion                    |
-|-----|---------|------------------------|-------------------|-------------|---------------------|--------------------------|----------|---------------------|------------------------|-------------------------------|
-| 1   |         |                        |                   |             |                     |                          |          |                     |                        |                               |
-| 2   |         |                        |                   |             |                     |                          |          |                     |                        |                               |
-| 3   |         |                        |                   |             |                     |                          |          |                     |                        |                               |
+| Pos | methods | Ensemble method        | data split method | pre-process | feature engineering | dimensionality reduction | speed up | libraries and tools | Code | Discussion                                                                      |
+|-----|---------|------------------------|-------------------|-------------|---------------------|--------------------------|----------|---------------------|------|---------------------------------------------------------------------------------|
+| 1   |         |                        |                   |             |                     |                          |          |                     | NA   | [Congratulations to the other winners](https://www.kaggle.com/c/rossmann-store-sales/discussion/17896#101318) |
+| 2   |         |                        |                   |             |                     |                          |          |                     | NA   | NA                                                                              |
+| 3   |         |                        |                   |             |                     |                          |          |                     | [Code sharing, 3rd place, category embedding with deep neural network](https://www.kaggle.com/c/rossmann-store-sales/discussion/17974#101792) | [entity-embedding-rossmann](https://github.com/entron/entity-embedding-rossmann)|
 
 
 ### 4. [Web Traffic Time Series Forecasting](https://www.kaggle.com/c/web-traffic-time-series-forecasting/overview)
 [> Go to top](#Review-of-kaggle-time-series-competition)
 
-| Pos | methods | Ensemble method        | data split method | pre-process | feature engineering | dimensionality reduction | speed up | libraries and tools | Code                   | Discussion                    |
-|-----|---------|------------------------|-------------------|-------------|---------------------|--------------------------|----------|---------------------|------------------------|-------------------------------|
-| 1   |         |                        |                   |             |                     |                          |          |                     |                        |                               |
-| 2   |         |                        |                   |             |                     |                          |          |                     |                        |                               |
-| 3   |         |                        |                   |             |                     |                          |          |                     |                        |                               |
+| Pos | methods | Ensemble method        | data split method | pre-process | feature engineering | dimensionality reduction | speed up | libraries and tools | Code                                                                         | Discussion                                                                                                 |
+|-----|---------|------------------------|-------------------|-------------|---------------------|--------------------------|----------|---------------------|------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
+| 1   |         |                        |                   |             |                     |                          |          |                     | [kaggle-web-traffic](https://github.com/Arturus/kaggle-web-traffic)          | [1st place solution](https://www.kaggle.com/c/web-traffic-time-series-forecasting/discussion/43795#245823) |
+| 2   |         |                        |                   |             |                     |                          |          |                     | [Kaggle](https://github.com/jfpuget/Kaggle/tree/master/WebTrafficPrediction) | [My bet (2nd place)](https://www.kaggle.com/c/web-traffic-time-series-forecasting/discussion/39395)        |
+| 3   |         |                        |                   |             |                     |                          |          |                     | [gist:7d01f366a388516359915a4b090e29d4](https://gist.github.com/thousandvoices/7d01f366a388516359915a4b090e29d4) | [My approach was a linear combination of medians](https://www.kaggle.com/c/web-traffic-time-series-forecasting/discussion/39367#223730) |
 
 
 ### 5. [TalkingData AdTracking Fraud Detection Challenge](https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection/data)
 [> Go to top](#Review-of-kaggle-time-series-competition)
 
-| Pos | methods | Ensemble method        | data split method | pre-process | feature engineering | dimensionality reduction | speed up | libraries and tools | Code                   | Discussion                    |
-|-----|---------|------------------------|-------------------|-------------|---------------------|--------------------------|----------|---------------------|------------------------|-------------------------------|
-| 1   |         |                        |                   |             |                     |                          |          |                     |                        |                               |
-| 2   |         |                        |                   |             |                     |                          |          |                     |                        |                               |
-| 3   |         |                        |                   |             |                     |                          |          |                     |                        |                               |
+| Pos | methods | Ensemble method        | data split method | pre-process | feature engineering | dimensionality reduction | speed up | libraries and tools | Code | Discussion                                                                                                               |
+|-----|---------|------------------------|-------------------|-------------|---------------------|--------------------------|----------|---------------------|------|--------------------------------------------------------------------------------------------------------------------------|
+| 1   |         |                        |                   |             |                     |                          |          |                     | NA   | [1st place solution](https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection/discussion/56475#326680)            |
+| 2   |         |                        |                   |             |                     |                          |          |                     | NA   | [[2nd Place Solution] from PPP](https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection/discussion/56328#325630) |
+| 3   |         |                        |                   |             |                     |                          |          |                     | NA   | [My brief summary,a mainly NN based solution(3th)](https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection/discussion/56262) |
 
 ### 6. [Corporación Favorita Grocery Sales Forecasting](https://www.kaggle.com/c/favorita-grocery-sales-forecasting/overview)
 [> Go to top](#Review-of-kaggle-time-series-competition)
 
-| Pos | methods | Ensemble method        | data split method | pre-process | feature engineering | dimensionality reduction | speed up | libraries and tools | Code                   | Discussion                    |
-|-----|---------|------------------------|-------------------|-------------|---------------------|--------------------------|----------|---------------------|------------------------|-------------------------------|
-| 1   |         |                        |                   |             |                     |                          |          |                     |                        |                               |
-| 2   |         |                        |                   |             |                     |                          |          |                     |                        |                               |
-| 3   |         |                        |                   |             |                     |                          |          |                     |                        |                               |
+| Pos | methods | Ensemble method        | data split method | pre-process | feature engineering | dimensionality reduction | speed up | libraries and tools | Code                                                                                                                                                                                                                                                                            | Discussion                                                                                                         |
+|-----|---------|------------------------|-------------------|-------------|---------------------|--------------------------|----------|---------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|
+| 1   |         |                        |                   |             |                     |                          |          |                     | [1st Place LGB Model(public:0.506, private:0.511)](https://www.kaggle.com/shixw125/1st-place-lgb-model-public-0-506-private-0-511) <br/> <br/> [1st Place NN Model(public:0.507, private:0.513)](https://www.kaggle.com/shixw125/1st-place-nn-model-public-0-507-private-0-513) | [1st place solution](https://www.kaggle.com/c/favorita-grocery-sales-forecasting/discussion/47582#269355)          |
+| 2   |         |                        |                   |             |                     |                          |          |                     | NA                                                                                                                                                                                                                                                                              | [2nd place solution overview](https://www.kaggle.com/c/favorita-grocery-sales-forecasting/discussion/47568#269198) |
+| 3   |         |                        |                   |             |                     |                          |          |                     | NA                                                                                                                                                                                                                                                                              | [3rd place solution overview](https://www.kaggle.com/c/favorita-grocery-sales-forecasting/discussion/47560#269132) |
 
 
 ### 7. [Recruit Restaurant Visitor Forecasting](https://www.kaggle.com/c/recruit-restaurant-visitor-forecasting/overview)
 [> Go to top](#Review-of-kaggle-time-series-competition)
 
-| Pos | methods | Ensemble method        | data split method | pre-process | feature engineering | dimensionality reduction | speed up | libraries and tools | Code                   | Discussion                    |
-|-----|---------|------------------------|-------------------|-------------|---------------------|--------------------------|----------|---------------------|------------------------|-------------------------------|
-| 1   |         |                        |                   |             |                     |                          |          |                     |                        |                               |
-| 2   |         |                        |                   |             |                     |                          |          |                     |                        |                               |
-| 3   |         |                        |                   |             |                     |                          |          |                     |                        |                               |
+| Pos | methods | Ensemble method        | data split method | pre-process | feature engineering | dimensionality reduction | speed up | libraries and tools | Code                                                                                                                                                                                                                                                                | Discussion |
+|-----|---------|------------------------|-------------------|-------------|---------------------|--------------------------|----------|---------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|
+| 1   |         |                        |                   |             |                     |                          |          |                     | [1st Place LGB Model(public:0.470, private:0.502)](https://www.kaggle.com/pureheart/1st-place-lgb-model-public-0-470-private-0-502) <br/> <br/> [solution(public:0.471,private:0.505 )](https://www.kaggle.com/plantsgo/solution-public-0-471-private-0-505/script) | NA         |
+| 2   |         |                        |                   |             |                     |                          |          |                     | NA                                                                                                                                                                                                                                                                  | NA         |
+| 3   |         |                        |                   |             |                     |                          |          |                     | NA                                                                                                                                                                                                                                                                  | NA         |
 
 
 ### 8. [Google Analytics Customer Revenue Prediction](https://www.kaggle.com/c/ga-customer-revenue-prediction/overview)
