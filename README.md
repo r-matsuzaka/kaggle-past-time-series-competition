@@ -198,7 +198,7 @@ NA
 ### 17. [Optiver Realized Volatility Prediction](https://www.kaggle.com/c/optiver-realized-volatility-prediction/overview)
 [> Go to top](#Review-of-kaggle-time-series-competition)
 
-1. [https://www.kaggle.com/chumajin/optiver-realized-eda-for-starter-english-version](https://www.kaggle.com/chumajin/optiver-realized-eda-for-starter-english-version)
+1. [Optiver Realized: EDA for starter(English version)](https://www.kaggle.com/chumajin/optiver-realized-eda-for-starter-english-version)
 2. [Optiver Realized Volatility Prediction - EDA](https://www.kaggle.com/gunesevitan/optiver-realized-volatility-prediction-eda)
 3. [Optiver; EDA XGBoost starter(日本語,Japanese)](https://www.kaggle.com/matsuosan/optiver-eda-xgboost-starter-japanese)
 
