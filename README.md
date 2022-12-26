@@ -30,6 +30,9 @@ competitions since 2014 to 2022.
   - [17. Optiver Realized Volatility Prediction](#17-optiver-realized-volatility-prediction)
   - [18. G-Research Crypto Forecasting](#18-g-research-crypto-forecasting)
   - [19. Ubiquant Market Prediction](#19-ubiquant-market-prediction)
+  - [20. American Express - Default Prediction](#20-american-express---default-prediction)
+  - [21. GoDaddy - Microbusiness Density Forecasting](#21-godaddy-microbusiness-density-forecasting)
+  
 - [Top 3 solutions](#top-3-solutions)
   - [1. Walmart Recruiting - Store Sales Forecasting](#1-walmart-recruiting---store-sales-forecasting-1)
   - [2. Walmart Recruiting II: Sales in Stormy Weather](#2-walmart-recruiting-ii-sales-in-stormy-weather-1)
@@ -50,32 +53,37 @@ competitions since 2014 to 2022.
   - [17. Optiver Realized Volatility Prediction](#17-optiver-realized-volatility-prediction-1)
   - [18. G-Research Crypto Forecasting](#18-g-research-crypto-forecasting-1)
   - [19. Ubiquant Market Prediction](#19-ubiquant-market-prediction-1)
-
+  - [20. American Express - Default Prediction](#20-american-express---default-prediction-1)
+  - [21. GoDaddy - Microbusiness Density Forecasting](#21-godaddy-microbusiness-density-forecasting-1)
+  
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## List of competitions
 
-| #   | Year      | Title                                                                                                                  | Data size |
-|-----|-----------|------------------------------------------------------------------------------------------------------------------------|-----------|
-| 1   | 2014      | [Walmart Recruiting - Store Sales Forecasting](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting)    | 3.22MB    |
-| 2   | 2015      | [Walmart Recruiting II: Sales in Stormy Weather](https://www.kaggle.com/c/walmart-recruiting-sales-in-stormy-weather)  | 9MB       |
-| 3   | 2015      | [Rossmann Store Sales](https://www.kaggle.com/c/rossmann-store-sales)                                                  | 39.85MB   |
-| 4   | 2017      | [Web Traffic Time Series Forecasting](https://www.kaggle.com/c/web-traffic-time-series-forecasting/overview)           | 611.85MB  |
-| 5   | 2018      | [TalkingData AdTracking Fraud Detection Challenge](https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection/data)| 11.27GB   |
-| 6   | 2018      | [Corporación Favorita Grocery Sales Forecasting](https://www.kaggle.com/c/favorita-grocery-sales-forecasting/overview) | 479.88MB  |
-| 7   | 2018      | [Recruit Restaurant Visitor Forecasting](https://www.kaggle.com/c/recruit-restaurant-visitor-forecasting/overview)     | 27.3MB    |
-| 8   | 2018      | [Google Analytics Customer Revenue Prediction](https://www.kaggle.com/c/ga-customer-revenue-prediction/overview)       | 35.9GB    |
-| 9   | 2019      | [LANL Earthquake Prediction](https://www.kaggle.com/c/LANL-Earthquake-Prediction/overview)                             | 10.42GB   |
-| 10  | 2019      | [Two Sigma: Using News to Predict Stock Movements](https://www.kaggle.com/c/two-sigma-financial-news/overview)         | Not available |
-| 11  | 2019      | [ASHRAE - Great Energy Predictor III](https://www.kaggle.com/c/ashrae-energy-prediction/overview)                      | 2.61GB    |
-| 12  | 2020      | [University of Liverpool - Ion Switching](https://www.kaggle.com/c/liverpool-ion-switching/overview)                   | 146.08MB  |
-| 13  | 2020      | [M5 Forecasting - Accuracy](https://www.kaggle.com/c/m5-forecasting-accuracy/overview)                                 | 450.47MB  |
-| 14  | 2020-2021 | [Jane Street Market Prediction](https://www.kaggle.com/c/jane-street-market-prediction/overview)                       | Not available |
-| 15  | 2020-2021 | [Acea Smart Water Analytics](https://www.kaggle.com/c/acea-water-prediction/overview)                                  | 3.45MB    |
-| 16  | 2021      | [Google Brain - Ventilator Pressure Prediction](https://www.kaggle.com/c/ventilator-pressure-prediction/overview)      | 698.79MB  |
-| 17  | 2022      | [Optiver Realized Volatility Prediction](https://www.kaggle.com/c/optiver-realized-volatility-prediction/overview)     | 2.73GB    |
-| 18  | 2022      | [G-Research Crypto Forecasting](https://www.kaggle.com/c/g-research-crypto-forecasting)                                | 3.12GB    |
-| 19  | 2022      | [Ubiquant Market Prediction](https://www.kaggle.com/c/ubiquant-market-prediction)                                      | 18.55GB   |
+| #   | Year      | Title                                                                                                                    | Data size |
+|-----|-----------|--------------------------------------------------------------------------------------------------------------------------|---------|
+| 1   | 2014      | [Walmart Recruiting - Store Sales Forecasting](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting)      | 3.22MB  |
+| 2   | 2015      | [Walmart Recruiting II: Sales in Stormy Weather](https://www.kaggle.com/c/walmart-recruiting-sales-in-stormy-weather)    | 9MB     |
+| 3   | 2015      | [Rossmann Store Sales](https://www.kaggle.com/c/rossmann-store-sales)                                                    | 39.85MB |
+| 4   | 2017      | [Web Traffic Time Series Forecasting](https://www.kaggle.com/c/web-traffic-time-series-forecasting/overview)             | 611.85MB |
+| 5   | 2018      | [TalkingData AdTracking Fraud Detection Challenge](https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection/data) | 11.27GB |
+| 6   | 2018      | [Corporación Favorita Grocery Sales Forecasting](https://www.kaggle.com/c/favorita-grocery-sales-forecasting/overview)   | 479.88MB |
+| 7   | 2018      | [Recruit Restaurant Visitor Forecasting](https://www.kaggle.com/c/recruit-restaurant-visitor-forecasting/overview)       | 27.3MB  |
+| 8   | 2018      | [Google Analytics Customer Revenue Prediction](https://www.kaggle.com/c/ga-customer-revenue-prediction/overview)         | 35.9GB  |
+| 9   | 2019      | [LANL Earthquake Prediction](https://www.kaggle.com/c/LANL-Earthquake-Prediction/overview)                               | 10.42GB |
+| 10  | 2019      | [Two Sigma: Using News to Predict Stock Movements](https://www.kaggle.com/c/two-sigma-financial-news/overview)           | Not available |
+| 11  | 2019      | [ASHRAE - Great Energy Predictor III](https://www.kaggle.com/c/ashrae-energy-prediction/overview)                        | 2.61GB  |
+| 12  | 2020      | [University of Liverpool - Ion Switching](https://www.kaggle.com/c/liverpool-ion-switching/overview)                     | 146.08MB |
+| 13  | 2020      | [M5 Forecasting - Accuracy](https://www.kaggle.com/c/m5-forecasting-accuracy/overview)                                   | 450.47MB |
+| 14  | 2020-2021 | [Jane Street Market Prediction](https://www.kaggle.com/c/jane-street-market-prediction/overview)                         | Not available |
+| 15  | 2020-2021 | [Acea Smart Water Analytics](https://www.kaggle.com/c/acea-water-prediction/overview)                                    | 3.45MB  |
+| 16  | 2021      | [Google Brain - Ventilator Pressure Prediction](https://www.kaggle.com/c/ventilator-pressure-prediction/overview)        | 698.79MB |
+| 17  | 2022      | [Optiver Realized Volatility Prediction](https://www.kaggle.com/c/optiver-realized-volatility-prediction/overview)       | 2.73GB  |
+| 18  | 2022      | [G-Research Crypto Forecasting](https://www.kaggle.com/c/g-research-crypto-forecasting)                                  | 3.12GB  |
+| 19  | 2022      | [Ubiquant Market Prediction](https://www.kaggle.com/c/ubiquant-market-prediction)                                        | 18.55GB |
+| 20  | 2022      | [American Express - Default Prediction](https://www.kaggle.com/competitions/amex-default-prediction)                     | 50.31 GB |
+| 21  | 2022      | [GoDaddy - Microbusiness Density Forecasting](https://www.kaggle.com/competitions/godaddy-microbusiness-density-forecasting) |  10.93 MB |
+
 
 ## Top 3 most voted EDAs
 To learn the characteristic of data given in each competition, EDA is one of the best way.   
@@ -213,6 +221,20 @@ NA
 1. [EDA- target analysis](https://www.kaggle.com/lucamassaron/eda-target-analysis)
 2. [Ubiquant EDA and Baseline](https://www.kaggle.com/ilialar/ubiquant-eda-and-baseline)
 3. [🔥The most advanced analytics🔥](https://www.kaggle.com/kartushovdanil/the-most-advanced-analytics)
+
+### 20. [American Express - Default Prediction](https://www.kaggle.com/c/ubiquant-market-prediction)
+[> Go to top](#Review-of-kaggle-time-series-competition)
+
+1. [AMEX EDA which makes sense ⭐️⭐️⭐️⭐️⭐️](https://www.kaggle.com/code/ambrosm/amex-eda-which-makes-sense)
+2. [AMEX Default Prediction EDA & LGBM Baseline](https://www.kaggle.com/code/kellibelcher/amex-default-prediction-eda-lgbm-baseline)
+3. [American Express EDA](https://www.kaggle.com/code/datark1/american-express-eda)
+
+### 21. [GoDaddy - Microbusiness Density Forecasting](https://www.kaggle.com/competitions/godaddy-microbusiness-density-forecasting)
+[> Go to top](#Review-of-kaggle-time-series-competition)
+
+1. [TBD]()
+2. [TBD]()
+3. [TBD]()
 
 
 ## Top 3 solutions
@@ -377,12 +399,41 @@ NA for Pos #2
 ### 18. [G-Research Crypto Forecasting](https://www.kaggle.com/c/g-research-crypto-forecasting)
 [> Go to top](#Review-of-kaggle-time-series-competition)
 
-Ongoing
+| Pos | Methods&emsp;&emsp;&emsp; | Ensemble&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | Split&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | Code     | Discussion                                                                                                 |
+|-----|---------------------------|----------------------------------------------|-------------------------------------------|----------|------------------------------------------------------------------------------------------------------------|
+| 1   |                           |                                              |                                           | NA       | [🔊](https://www.kaggle.com/competitions/optiver-realized-volatility-prediction/discussion/278588#1545008) |
+| 2   |                           |                                              |                                           | NA       | [🔊](https://www.kaggle.com/competitions/g-research-crypto-forecasting/discussion/323098)                  |
+| 3   |                           |                                              |                                           | [💻](https://www.kaggle.com/code/sugghi/training-3rd-place-solution) [💻](https://www.kaggle.com/code/sugghi/inference-3rd-place-solution) | [🔊](https://www.kaggle.com/competitions/g-research-crypto-forecasting/discussion/323703)                                                                                                       |
 
 ### 19. [Ubiquant Market Prediction](https://www.kaggle.com/c/ubiquant-market-prediction)
 [> Go to top](#Review-of-kaggle-time-series-competition)
 
+| Pos | Methods&emsp;&emsp;&emsp; | Ensemble&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | Split&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | Code | Discussion                                                                             |
+|-----|---------------------------|----------------------------------------------|-------------------------------------------|------|----------------------------------------------------------------------------------------|
+| 1   |                           |                                              |                                           | NA   | [🔊](https://www.kaggle.com/competitions/ubiquant-market-prediction/discussion/338220) |
+| 2   |                           |                                              |                                           | NA   | [🔊](https://www.kaggle.com/competitions/ubiquant-market-prediction/discussion/338615) |
+| 3   |                           |                                              |                                           | NA   | [🔊](https://www.kaggle.com/competitions/ubiquant-market-prediction/discussion/338561)   |
+
+### 20. [American Express - Default Prediction](https://www.kaggle.com/competitions/amex-default-prediction)
+[> Go to top](#Review-of-kaggle-time-series-competition)
+
+| Pos | Methods&emsp;&emsp;&emsp; | Ensemble&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | Split&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | Code                                                                                   | Discussion                                                                          |
+|-----|---------------------------|----------------------------------------------|-------------------------------------------|----------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|
+| 1   |                           |                                              |                                           | [💻](https://github.com/jxzly/Kaggle-American-Express-Default-Prediction-1st-solution) | [🔊](https://www.kaggle.com/competitions/amex-default-prediction/discussion/348111) |
+| 2   |                           |                                              |                                           | NA                                                                                     | [🔊](https://www.kaggle.com/competitions/amex-default-prediction/discussion/347637) |
+| 3   |                           |                                              |                                           | NA                                                                                     | [🔊](https://www.kaggle.com/competitions/amex-default-prediction/discussion/349741)                                                                                |
+
+### 21. [GoDaddy - Microbusiness Density Forecasting](https://www.kaggle.com/competitions/godaddy-microbusiness-density-forecasting)
+[> Go to top](#Review-of-kaggle-time-series-competition)
+
 Ongoing
+
+| Pos | Methods&emsp;&emsp;&emsp; | Ensemble&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | Split&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | Code | Discussion |
+|-----|---------------------------|----------------------------------------------|-------------------------------------------|------|------------|
+| 1   |                           |                                              |                                           |      |            |
+| 2   |                           |                                              |                                           |      |            |
+| 3   |                           |                                              |                                           |      |            |
+
 
 
 
