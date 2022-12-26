@@ -31,7 +31,8 @@ competitions since 2014 to 2022.
   - [18. G-Research Crypto Forecasting](#18-g-research-crypto-forecasting)
   - [19. Ubiquant Market Prediction](#19-ubiquant-market-prediction)
   - [20. American Express - Default Prediction](#20-american-express---default-prediction)
-  - [21. GoDaddy - Microbusiness Density Forecasting](#21-godaddy---microbusiness-density-forecasting)
+  - [21. GoDaddy - Microbusiness Density Forecasting](#21-godaddy-microbusiness-density-forecasting)
+  
 - [Top 3 solutions](#top-3-solutions)
   - [1. Walmart Recruiting - Store Sales Forecasting](#1-walmart-recruiting---store-sales-forecasting-1)
   - [2. Walmart Recruiting II: Sales in Stormy Weather](#2-walmart-recruiting-ii-sales-in-stormy-weather-1)
@@ -53,8 +54,8 @@ competitions since 2014 to 2022.
   - [18. G-Research Crypto Forecasting](#18-g-research-crypto-forecasting-1)
   - [19. Ubiquant Market Prediction](#19-ubiquant-market-prediction-1)
   - [20. American Express - Default Prediction](#20-american-express---default-prediction-1)
-  - [21. GoDaddy - Microbusiness Density Forecasting](#21-godaddy---microbusiness-density-forecasting-1)
-
+  - [21. GoDaddy - Microbusiness Density Forecasting](#21-godaddy-microbusiness-density-forecasting-1)
+  
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## List of competitions
@@ -398,20 +399,20 @@ NA for Pos #2
 ### 18. [G-Research Crypto Forecasting](https://www.kaggle.com/c/g-research-crypto-forecasting)
 [> Go to top](#Review-of-kaggle-time-series-competition)
 
-| Pos | Methods&emsp;&emsp;&emsp; | Ensemble&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | Split&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | Code     | Discussion                                                                                                 |
-|-----|---------------------------|----------------------------------------------|-------------------------------------------|----------|------------------------------------------------------------------------------------------------------------|
-| 1   |                           |                                              |                                           | NA       | [🔊](https://www.kaggle.com/competitions/optiver-realized-volatility-prediction/discussion/278588#1545008) |
-| 2   |                           |                                              |                                           | NA       | [🔊](https://www.kaggle.com/competitions/g-research-crypto-forecasting/discussion/323098)                  |
-| 3   |                           |                                              |                                           | [💻](https://www.kaggle.com/code/sugghi/training-3rd-place-solution) [💻](https://www.kaggle.com/code/sugghi/inference-3rd-place-solution) | [🔊](https://www.kaggle.com/competitions/g-research-crypto-forecasting/discussion/323703)                                                                                                       |
+| Pos | Methods&emsp;&emsp;&emsp; | Ensemble&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | Split&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | Code     | Discussion                                                                                |
+|-----|---------------------------|----------------------------------------------|-------------------------------------------|----------|-------------------------------------------------------------------------------------------|
+| 1   |                           |                                              |                                           | NA       | NA                                                                                        |
+| 2   |                           |                                              |                                           | NA       | [🔊](https://www.kaggle.com/competitions/g-research-crypto-forecasting/discussion/323098) |
+| 3   |                           |                                              |                                           | [💻](https://www.kaggle.com/code/sugghi/training-3rd-place-solution) [💻](https://www.kaggle.com/code/sugghi/inference-3rd-place-solution) | [🔊](https://www.kaggle.com/competitions/g-research-crypto-forecasting/discussion/323703) |
 
 ### 19. [Ubiquant Market Prediction](https://www.kaggle.com/c/ubiquant-market-prediction)
 [> Go to top](#Review-of-kaggle-time-series-competition)
 
 | Pos | Methods&emsp;&emsp;&emsp; | Ensemble&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | Split&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | Code | Discussion                                                                             |
 |-----|---------------------------|----------------------------------------------|-------------------------------------------|------|----------------------------------------------------------------------------------------|
-| 1   |                           |                                              |                                           | NA   | [🔊](https://www.kaggle.com/competitions/ubiquant-market-prediction/discussion/338220) |
-| 2   |                           |                                              |                                           | NA   | [🔊](https://www.kaggle.com/competitions/ubiquant-market-prediction/discussion/338615) |
-| 3   |                           |                                              |                                           | NA   | [🔊](https://www.kaggle.com/competitions/ubiquant-market-prediction/discussion/338561)   |
+| 1   | LightGBM<br/> <br/>TABNET | Average of (LGBM x 5 Folds) + (TABNET x 5 Folds) | PurgedGroupTimeSeries<br/> <br/>TimeSerieseSplit <br/> <br/>KFold | NA   | [🔊](https://www.kaggle.com/competitions/ubiquant-market-prediction/discussion/338220) |
+| 2   | LightGBM                  |   | Purged K-FOLD cross validation with embargo                                          | NA   | [🔊](https://www.kaggle.com/competitions/ubiquant-market-prediction/discussion/338615) |
+| 3   | 6 layers transformer      | 5 seeds ensemble                             |                                           | NA   | [🔊](https://www.kaggle.com/competitions/ubiquant-market-prediction/discussion/338561)   |
 
 ### 20. [American Express - Default Prediction](https://www.kaggle.com/competitions/amex-default-prediction)
 [> Go to top](#Review-of-kaggle-time-series-competition)
@@ -432,10 +433,3 @@ Ongoing
 | 1   |                           |                                              |                                           |      |            |
 | 2   |                           |                                              |                                           |      |            |
 | 3   |                           |                                              |                                           |      |            |
-
-
-
-
-
-
-
