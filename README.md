@@ -299,11 +299,11 @@ NA
 ### 7. [Recruit Restaurant Visitor Forecasting](https://www.kaggle.com/c/recruit-restaurant-visitor-forecasting/overview)
 [> Go to top](#Review-of-kaggle-time-series-competition)
 
-| Pos | Methods&emsp;&emsp;&emsp;                     | Ensemble&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | Split&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | Code                                                                                 | Discussion                                                                                           |
-|-----|---------|------------------------|-------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------|
-| 1   |         |                        |                   | [💻](https://www.kaggle.com/pureheart/1st-place-lgb-model-public-0-470-private-0-502) <br/> <br/> [💻](https://www.kaggle.com/plantsgo/solution-public-0-471-private-0-505/script) | NA                                        |
-| 2   |         |                        |                   | NA                                                                                                                                                                                                                                                                  | NA                                        |
-| 3   |         |                        |                   | NA                                                                                                                                                                                                                                                                  | NA                                        |
+| Pos | Methods&emsp;&emsp;&emsp; | Ensemble&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | Split&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | Code                                                                                 | Discussion                                                                                           |
+|-----|---------------------------|----------------------------------------------|-------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------|
+| 1   | LightGBM                  | -                                            | -                                         | [💻](https://www.kaggle.com/pureheart/1st-place-lgb-model-public-0-470-private-0-502) <br/> <br/> [💻](https://www.kaggle.com/plantsgo/solution-public-0-471-private-0-505/script) | NA                                        |
+| 2   | -                         | -                                            | -                                         | NA                                                                                                                                                                                                                                                                  | NA                                        |
+| 3   | -                         | -                                            | -                                         | NA                                                                                                                                                                                                                                                                  | NA                                        |
 
 
 ### 8. [Google Analytics Customer Revenue Prediction](https://www.kaggle.com/c/ga-customer-revenue-prediction/overview)
@@ -407,11 +407,11 @@ NA for Pos #2
 ### 19. [Ubiquant Market Prediction](https://www.kaggle.com/c/ubiquant-market-prediction)
 [> Go to top](#Review-of-kaggle-time-series-competition)
 
-| Pos | Methods&emsp;&emsp;&emsp; | Ensemble&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | Split&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | Code | Discussion                                                                             |
-|-----|---------------------------|----------------------------------------------|-------------------------------------------|------|----------------------------------------------------------------------------------------|
+| Pos | Methods&emsp;&emsp;&emsp; | Ensemble&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;     | Split&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;                         | Code | Discussion                                                                             |
+|-----|---------------------------|--------------------------------------------------|-------------------------------------------------------------------|------|----------------------------------------------------------------------------------------|
 | 1   | LightGBM<br/> <br/>TABNET | Average of (LGBM x 5 Folds) + (TABNET x 5 Folds) | PurgedGroupTimeSeries<br/> <br/>TimeSerieseSplit <br/> <br/>KFold | NA   | [🔊](https://www.kaggle.com/competitions/ubiquant-market-prediction/discussion/338220) |
-| 2   | LightGBM                  |   | Purged K-FOLD cross validation with embargo                                          | NA   | [🔊](https://www.kaggle.com/competitions/ubiquant-market-prediction/discussion/338615) |
-| 3   | 6 layers transformer      | 5 seeds ensemble                             |                                           | NA   | [🔊](https://www.kaggle.com/competitions/ubiquant-market-prediction/discussion/338561)   |
+| 2   | LightGBM                  | -                                                | Purged K-FOLD cross validation with embargo                       | NA   | [🔊](https://www.kaggle.com/competitions/ubiquant-market-prediction/discussion/338615) |
+| 3   | 6 layers transformer      | 5 seeds ensemble                                 | -                                                                 | NA   | [🔊](https://www.kaggle.com/competitions/ubiquant-market-prediction/discussion/338561)   |
 
 ### 20. [American Express - Default Prediction](https://www.kaggle.com/competitions/amex-default-prediction)
 [> Go to top](#Review-of-kaggle-time-series-competition)
