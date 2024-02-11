@@ -4,6 +4,8 @@ Inspired by [Learnings from Kaggle’s Forecasting Competitions](https://arxiv.o
 by Casper Solheim Bojer & Jens Peder Meldgaard in 2020, I surveyed the top 3 solutions in the past kaggle time series
 competitions since 2014 to 2023.
 
+If you find new time series competitions, please tell me by issues.
+
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
