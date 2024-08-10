@@ -450,6 +450,6 @@ Ongoing
 
 | Pos | Methods&emsp;&emsp;&emsp; | FE&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | Ensemble&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | Split&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | Code | Discussion |
 |-----|---------------------------|----------------------------------------|----------------------------------------------|-------------------------------------------|------|------------|
-| 1   |                           |                                        |                                              |                                           |      |            |
+| 1   | Linear regression         |                                        |                                              |                                           | [💻](https://www.kaggle.com/code/kaggleqrdl/first-place-code)| [🔊](https://www.kaggle.com/competitions/godaddy-microbusiness-density-forecasting/discussion/395131)|
 | 2   |                           |                                        |                                              |                                           |      |            |
 | 3   |                           |                                        |                                              |                                           |      |            |
