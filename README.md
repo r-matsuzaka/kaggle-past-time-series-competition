@@ -2,7 +2,7 @@
 
 Inspired by [Learnings from Kaggle’s Forecasting Competitions](https://arxiv.org/pdf/2009.07701.pdf) 
 by Casper Solheim Bojer & Jens Peder Meldgaard in 2020, I surveyed the top 3 solutions in the past kaggle time series
-competitions since 2014 to 2023.
+competitions since 2014 to 2024.
 
 If you find new time series competitions, please tell me by issues.
 
