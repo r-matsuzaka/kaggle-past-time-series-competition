@@ -253,11 +253,11 @@ NA
 ### 1. [Walmart Recruiting - Store Sales Forecasting](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting)
 [> Go to the top](#Review-of-kaggle-time-series-competition)
 
-| Pos | Methods&emsp;&emsp;&emsp; | FE&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | Ensemble&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | Split&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | Code                                                                                 | Discussion                                                                                           |
-|-----|---------------------------|----------------------------------------|------------------------|-------------------|---------------------------------------------------------------------------------------------|---------------------------------------------------------------|
-| 1   |                           |                                        |                        |                   | [💻](https://github.com/davidthaler/Walmart_competition_code) | [🔊](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting/discussion/8125#) |
-| 2   |                           |                                        |                        |                   | NA                                                                                          | [🔊](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting/discussion/8023#43811) |
-| 3   |                           |                                        |                        |                   | [💻](https://ideone.com/pUw773)                          | [🔊](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting/discussion/8023#43821) |
+| Pos | Methods | FE | Ensemble | Split | Code | Discussion |
+|-----|---------|-----|----------|------|------|------------|
+| 1   | Time Series Models:<br>• STLF/ETS<br>• STLF/ARIMA<br>• Seasonal ARIMA<br>• Fourier ARIMA | • SVD preprocessing<br>• Time series decomposition<br>• Correlation-based NN pooling<br>• Holiday period adjustment | Average of 6 time series models:<br>• 3 simple models<br>• 3 advanced models | Department-wise pooling across stores | [💻](https://github.com/davidthaler/Walmart_competition_code) | [🔊](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting/discussion/8125#) |
+| 2   |         |     |          |      | NA   | [🔊](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting/discussion/8023#43811) |
+| 3   |         |     |          |      | [💻](https://ideone.com/pUw773) | [🔊](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting/discussion/8023#43821) |
 
 ### 2. [Walmart Recruiting II: Sales in Stormy Weather](https://www.kaggle.com/c/walmart-recruiting-sales-in-stormy-weather)
 [> Go to the top](#Review-of-kaggle-time-series-competition)
